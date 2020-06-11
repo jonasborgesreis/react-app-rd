@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 const media = {
-  mobile: '@media(max-width: 500px)',
+  mobile: '@media(max-width: 700px)',
   tablet: '@media(max-width: 700px)',
   desktop: '@media(min-width: 1100px)'
 }
